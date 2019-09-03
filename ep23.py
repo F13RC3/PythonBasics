@@ -1,0 +1,7 @@
+fw=open('samples.txt','w')
+fw.write('this is sample dont flatter urself \n')
+fw.close()
+fr=open('samples.txt','r')
+text=fr.read()
+print(text)
+fr.close()

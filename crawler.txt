@@ -1,0 +1,17 @@
+None : https://en.wikipedia.org/w/load.php?debug=false&lang=en&modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&only=styles&skin=vector
+None : https://en.wikipedia.org/w/load.php?debug=false&lang=en&modules=ext.gadget.charinsert-styles&only=styles&skin=vector
+None : https://en.wikipedia.org/w/load.php?debug=false&lang=en&modules=site.styles&only=styles&skin=vector
+None : https://en.wikipedia.organdroid-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_Baby_Steps_episodes
+None : https://en.wikipedia.org/w/index.php?title=List_of_Baby_Steps_episodes&action=edit
+None : https://en.wikipedia.org/w/index.php?title=List_of_Baby_Steps_episodes&action=edit
+None : https://en.wikipedia.org/static/apple-touch/wikipedia.png
+None : https://en.wikipedia.org/static/favicon/wikipedia.ico
+None : https://en.wikipedia.org/w/opensearch_desc.php
+None : https://en.wikipedia.org//en.wikipedia.org/w/api.php?action=rsd
+None : https://en.wikipedia.org//creativecommons.org/licenses/by-sa/3.0/
+None : https://en.wikipedia.orghttps://en.wikipedia.org/wiki/List_of_Baby_Steps_episodes
+None : https://en.wikipedia.org//login.wikimedia.org
+None : https://en.wikipedia.org//meta.wikimedia.org
+None : https://en.wikipedia.orgmw-data:TemplateStyles:r861714446
+None : https://en.wikipedia.orgmw-data:TemplateStyles:r861714446
+None : https://en.wikipedia.orgmw-data:TemplateStyles:r861714446
